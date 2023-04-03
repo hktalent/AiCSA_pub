@@ -78,7 +78,7 @@ find $HOME/Downloads/outImg -name '*.png' | sort | sed 's/.*/"&"/' | tr '\n' ' '
 ```
 
 ## 💖Star
-[![Stargazers over time](https://starchart.cc/hktalent/AiCSA.svg)](https://starchart.cc/hktalent/AiCSA)
+[![Stargazers over time](https://starchart.cc/hktalent/AiCSA_pub.svg)](https://starchart.cc/hktalent/AiCSA_pub)
 
 # Donation
 | Wechat Pay | AliPay | Paypal | BTC Pay |BCH Pay |

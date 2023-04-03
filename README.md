@@ -2,7 +2,6 @@
 # Ai(ChatGPT-4) Code Security Audit
 <img width="800" alt="image" src="https://user-images.githubusercontent.com/18223385/229501108-1c415db2-d455-40a4-9772-57af1c563532.png">
 
-<img width="800" alt="image" src="https://user-images.githubusercontent.com/18223385/229397981-b0eab8a6-9635-4520-8e1a-d11e1c3ffcfe.png">
 
 
 # feature
